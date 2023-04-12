@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<experiments>
+  <algorithm name="InsertionSort">
+    <experiment Lenght="1000" Count="249786" />
+    <experiment Lenght="2000" Count="972343" />
+    <experiment Lenght="10000" Count="25098879" />
+    <experiment Lenght="20000" Count="99952586" />
+  </algorithm>
+  <algorithm name="TreeSort">
+    <experiment Lenght="1000" Count="11032" />
+    <experiment Lenght="2000" Count="24317" />
+    <experiment Lenght="10000" Count="161917" />
+    <experiment Lenght="20000" Count="351815" />
+  </algorithm>
+  <algorithm name="QSort">
+    <experiment Lenght="1000" Count="5392" />
+    <experiment Lenght="2000" Count="11615" />
+    <experiment Lenght="10000" Count="77511" />
+    <experiment Lenght="20000" Count="159755" />
+  </algorithm>
+</experiments>

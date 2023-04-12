@@ -1,0 +1,15 @@
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\bin\Debug\net6.0\Lab2Sort.exe
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\bin\Debug\net6.0\Lab2Sort.deps.json
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\bin\Debug\net6.0\Lab2Sort.runtimeconfig.json
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\bin\Debug\net6.0\Lab2Sort.dll
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\bin\Debug\net6.0\Lab2Sort.pdb
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.csproj.AssemblyReference.cache
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.AssemblyInfoInputs.cache
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.AssemblyInfo.cs
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.csproj.CoreCompileInputs.cache
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.dll
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\refint\Lab2Sort.dll
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.pdb
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\Lab2Sort.genruntimeconfig.cache
+D:\c# projects\.NET Projects\Lab2Sort\Lab2Sort\obj\Debug\net6.0\ref\Lab2Sort.dll
